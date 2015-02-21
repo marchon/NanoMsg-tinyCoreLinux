@@ -1,0 +1,35 @@
+drwxr-xr-x    2 root     root          2680 Feb 21 10:06 bin/
+drwxr-xr-x    5 root     root           280 Feb 21 10:06 include/
+drwxr-xr-x   11 root     root          2820 Feb 21 10:06 lib/
+-rwxr-xr-x    1 root     root         63183 Feb 21 10:06 nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_bus -> nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_pair -> nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_pub -> nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_pull -> nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_push -> nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_rep -> nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_req -> nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_respondent -> nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_sub -> nanocat
+lrwxrwxrwx    1 root     root             7 Feb 21 10:06 nn_surveyor -> nanocat
+-rwxr-xr-x    1 root     root         10977 Feb 21 10:06 tcpmuxd
+drwxr-xr-x    2 root     root           280 Feb 21 10:06 nanomsg/
+-rw-r--r--    1 root     root          1339 Feb 21 10:06 bus.h
+-rw-r--r--    1 root     root          1303 Feb 21 10:06 inproc.h
+-rw-r--r--    1 root     root          1294 Feb 21 10:06 ipc.h
+-rw-r--r--    1 root     root         12543 Feb 21 10:06 nn.h
+-rw-r--r--    1 root     root          1344 Feb 21 10:06 pair.h
+-rw-r--r--    1 root     root          1466 Feb 21 10:06 pipeline.h
+-rw-r--r--    1 root     root          1450 Feb 21 10:06 pubsub.h
+-rw-r--r--    1 root     root          1699 Feb 21 10:06 reqrep.h
+-rw-r--r--    1 root     root          1437 Feb 21 10:06 survey.h
+-rw-r--r--    1 root     root          1320 Feb 21 10:06 tcp.h
+-rw-r--r--    1 root     root          1332 Feb 21 10:06 tcpmux.h
+-rw-r--r--    1 root     root          2313 Feb 21 10:06 ws.h
+-rw-r--r--    1 root     root       1582022 Feb 21 10:06 libnanomsg.a
+-rwxr-xr-x    1 root     root           958 Feb 21 10:06 libnanomsg.la
+lrwxrwxrwx    1 root     root            19 Feb 21 10:06 libnanomsg.so -> libnanomsg.so.0.2.1
+lrwxrwxrwx    1 root     root            19 Feb 21 10:06 libnanomsg.so.0 -> libnanomsg.so.0.2.1
+-rwxr-xr-x    1 root     root        974474 Feb 21 10:06 libnanomsg.so.0.2.1
+drwxr-xr-x    2 root     root            60 Feb 21 10:06 pkgconfig/
+-rw-r--r--    1 root     root           325 Feb 21 10:06 libnanomsg.pc

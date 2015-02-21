@@ -1,0 +1,1 @@
+539848b57a415386c349fe21877741fa  nanomsg-dev.tcz
